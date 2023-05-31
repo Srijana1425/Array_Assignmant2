@@ -10,7 +10,7 @@ Output: 4<br>
 3. (1, 2), (3, 4) -> min(1, 2) + min(3, 4) = 1 + 3 = 4<br>
 So the maximum possible sum is 4<br><br>
 *Answer*<br>
-**code**[link]()
+**code** [link](https://github.com/Srijana1425/Array_Assignmant2/blob/main/ans1.js)
 *******************************************************************************************************************************************************
 
 **Question 2**
@@ -22,7 +22,7 @@ Input: candyType = [1,1,2,2,3,3]<br>
 Output: 3<br>
 **Explanation**: Alice can only eat 6 / 2 = 3 candies. Since there are only 3 types, she can eat one of each type.<br><br>
 *Answer*<br>
-**code**[link]
+**code** [link](https://github.com/Srijana1425/Array_Assignmant2/blob/main/ans2.js)
 *******************************************************************************************************************************************************
 
 **Question 3**
@@ -36,7 +36,7 @@ Input: nums = [1,3,2,2,5,2,3,7]<br>
 Output: 5<br>
 **Explanation:** The longest harmonious subsequence is [3,2,2,2,3].<br><br>
 *Answer*<br>
-**code**[link]
+**code** [link](https://github.com/Srijana1425/Array_Assignmant2/blob/main/ans3.js)
 *******************************************************************************************************************************************************
 
 **Question 4**
@@ -47,7 +47,7 @@ Given an integer array flowerbed containing 0's and 1's, where 0 means empty and
 Input: flowerbed = [1,0,0,0,1], n = 1<br>
 Output: true<br><br>
 *Answer*<br>
-**code**[link]
+**code** [link](https://github.com/Srijana1425/Array_Assignmant2/blob/main/ans4.js)
 *******************************************************************************************************************************************************
 
 **Question 5**
@@ -56,7 +56,7 @@ Given an integer array nums, find three numbers whose product is maximum and ret
 Input: nums = [1,2,3]<br>
 Output: 6<br><br>
 *Answer*<br>
-**code**[link]
+**code** [link](https://github.com/Srijana1425/Array_Assignmant2/blob/main/ans5.js)
 *******************************************************************************************************************************************************
 
 **Question 6**
@@ -68,7 +68,7 @@ Input: nums = [-1,0,3,5,9,12], target = 9<br>
 Output: 4<br>
 **Explanation:** 9 exists in nums and its index is 4<br<br>
 *Answer*<br>
-**code**[link]
+**code** [link](https://github.com/Srijana1425/Array_Assignmant2/blob/main/ans6.js)
 *******************************************************************************************************************************************************
 
 **Question 7**
@@ -80,7 +80,7 @@ Given an integer array nums, return true if the given array is monotonic, or fal
 Input: nums = [1,2,2,3]<br>
 Output: true<br><br>
 *Answer*<br>
-**code**[link]
+**code** [link](https://github.com/Srijana1425/Array_Assignmant2/blob/main/ans7.js)
 *******************************************************************************************************************************************************
 
 **Question 8**
@@ -93,4 +93,4 @@ Input: nums = [1], k = 0<br>
 Output: 0<br>
 **Explanation:** The score is max(nums) - min(nums) = 1 - 1 = 0.<br><br>
 *Answer*<br>
-**code**[link]
+**code** [link](https://github.com/Srijana1425/Array_Assignmant2/blob/main/ans8.js)
